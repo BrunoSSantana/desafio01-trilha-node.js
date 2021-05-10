@@ -67,7 +67,7 @@ $ git clone https://github.com/BrunoSSantana/desafio01-trilha-node.js.git
 $ cd desafio01-trilha-node.js
 
 # Instalando dependências
-$ yarn ou yarn install
+$ yarn
 
 # Executando a aplicação em modo de desenvolvimento
 $ yarn dev
